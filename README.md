@@ -20,5 +20,7 @@ Source @educative
 - Designing Instagram
 - Designing Dropbox
 - Designing Facebook Messenger
+- Designing Twitter
+
 
 to be continued...
